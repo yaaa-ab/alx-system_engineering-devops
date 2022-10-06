@@ -1,0 +1,1 @@
+shell permissions mandatory tasks
